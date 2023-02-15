@@ -1,0 +1,780 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.slider2-height {
+	min-height: 770px;
+}
+.slider-height {
+	min-height: 770px;
+}
+.white-header {
+	padding-top: 21px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.slider-content h1 {
+	font-size: 48px;
+	line-height: 60px;
+	margin-bottom: 12px;
+}
+.slider-count {
+	margin-top: 70px;
+}
+.slider-count .time-count {
+	margin: 0 35px;
+	font-size: 62px;
+}
+.time-count > span {
+	font-size: 20px;
+	letter-spacing: 4px;
+}
+
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.header-top-wrapper {
+	padding-left: 74px;
+}
+.slider-count .time-count {
+	margin: 0 20px;
+}
+.slider-height {
+	min-height: 770px;
+}
+.white-header {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.events-img {
+	padding-left: 0;
+	padding-right: 0;
+}
+.testimonial3 {
+	box-shadow: none;
+}
+.testimonial-box {
+	padding: 80px 0;
+}
+.testimonial3 .testimonial-inner {
+	background: #fff;
+	box-shadow: none;
+}
+.testimonial-text p {
+	padding: 0 30px;
+}
+.events-content {
+	padding-left: 0;
+}
+.event-bg {
+	margin-left: 0;
+	padding-top: 40px;
+}
+.event-tab-content.mb-75 {
+	margin-bottom: 40px;
+}
+.ticket2-now .ticket-now-text p {
+	padding-right: 0;
+}
+.ticket-now-text p {
+	margin-bottom: 0;
+	padding-right: 0;
+}
+.latest-blog-meta span {
+	margin-right: 10px;
+}
+.latest-blog-meta span a {
+	font-size: 12px;
+}
+.latest-blog-meta span {
+	font-size: 12px;
+}
+.latest-blog-meta span::before {
+	right: 75px;
+}
+.subscribe-form {
+	margin-left: 0;
+}
+.subscribe-form button {
+	padding: 23px 73px;
+}
+.footer-logo a img {
+	width: 100%;
+}
+.events2-content span {
+	padding-right: 0;
+	margin-top: 15px;
+}
+.events2-content p {
+	padding-right: 0;
+}
+.event-tab-border {
+	padding: 75px 30px 0 30px;
+}
+.event-tab-border .event-tab-content h4 {
+	padding-right: 0;
+}
+.pricing2-top-text p {
+	padding: 0 25px;
+}
+.workshop-area::before {
+	display: none;
+}
+.workshop-area::after {
+	display: none;
+}
+.ticket-bg11 .ticket-now-text p {
+	padding-right: 0;
+}
+.details-next-text {
+	padding-left: 0;
+}
+.choose-wrapper {
+	height: 100%;
+	padding: 100px 50px;
+}
+.footer-text h4 {
+	padding-right: 0;
+}
+.event-tab-meta span {
+    font-size: 12px;
+	margin-right: 6px;
+}
+.feature-text p {
+	padding: 0 15px;
+}
+.slider2-height {
+	min-height: 700px;
+}
+.event-count.slider-count .time-count {
+	margin: 0 5px;
+}
+.breadcrumb-area {
+	padding-top: 150px;
+	padding-bottom: 120px;
+}
+.breadcrumb-text > h1 {
+	font-size: 42px;
+}
+.slider-content h1 {
+	font-size: 42px;
+	line-height: 52px;
+	margin-bottom: 10px;
+}
+.slider-count {
+	margin-top: 60px;
+}
+.slider-text h1 {
+	font-size: 54px;
+	padding: 6px 24px 10px 24px;
+}
+.slider-text > span {
+	font-size: 38px;
+	padding: 8px 17px 9px;
+}
+.slider-info span {
+	font-size: 15px;
+}
+.slider2-info .slider-info {
+	padding: 6px 20px 7px 20px;
+}
+.latest-blog-text h4 {
+	padding-right: 0;
+}
+.events-content h2 {
+	font-size: 32px;
+}
+.event-sec-title {
+	padding: 0 50px;
+}
+
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header-top-wrapper {
+	padding-left: 0;
+}
+.slider-content h1 {
+	font-size: 40px;
+	line-height: 50px;;
+}
+.slider-count .time-count {
+	font-size: 40px;
+	margin: 0 20px;
+}
+.slider-count {
+	margin-top: 60px;
+}
+.time-count > span {
+	display: block;
+	font-size: 20px;
+}
+.slider-height {
+	min-height: 640px;
+}
+.events-content {
+	padding-left: 0;
+}
+.event-tab li {
+	margin: 0 5px;
+}
+.event-tab-content.mb-75 {
+	margin-bottom: 40px;
+}
+.event-tab-text h4 {
+	font-size: 17px;
+}
+.event-tab-meta span {
+	margin-right: 15px;
+}
+.event-bg {
+	margin-left: 0;
+	padding-top: 43px;
+}
+.event-tab-content h4 {
+	font-size: 17px;
+}
+.event-tab {
+	margin-top: 10px;
+}
+.ticket-bg {
+	margin-left: 0;
+	margin-right: 0;
+	padding: 41px 20px 48px 20px;
+}
+.ticket-now-text p {
+	margin-bottom: 0;
+	padding-right: 0;
+}
+.subscribe-form {
+	margin-left: 0;
+}
+.subscribe-form button {
+	padding: 23px 43px;
+}
+.footer-title {
+	font-size: 27px;
+}
+.footer-text h4 {
+	padding-right: 0;
+}
+.footer-logo a img {
+	width: 100%;
+}
+.events2-content span {
+	padding-right: 0;
+	margin-top: 0;
+}
+.events2-content p {
+	padding-right: 0;
+}
+.event-tab-border {
+	padding: 60px 30px 0px 30px;
+}
+.event2-tab li {
+	margin: 0 6px;
+}
+.event-tab-border .event-tab-content h4 {
+	padding-right: 0;
+}
+.latest-blog-meta span {
+	margin-right: 20px;
+}
+.event-tab-meta span i {
+	margin-right: 5px;
+}
+.pricing2-top-text p {
+	padding: 0 24px;
+}
+.feature-text p {
+	padding: 0 15px;
+}
+.ticket2-now .ticket-now-text p {
+	padding-right: 0;
+}
+.workshop-area::before {
+	display: none;
+}
+.workshop-area::after {
+	display: none;
+}
+.event-details-single {
+	padding-left: 0;
+}
+.ticket-bg11 .ticket-now-text p {
+	padding-right: 0;
+}
+.details-next-text {
+	padding-left: 0;
+}
+.speaker-img img {
+	width: 100%;
+}
+.breadcrumb-area {
+	padding: 150px 0;
+}
+.breadcrumb-text > h1 {
+	font-size: 38px;
+}
+.testimonial-active .owl-nav div {
+	left: 20px;
+}
+.testimonial-active .owl-nav div.owl-next {
+	left: auto;
+	right: 20px;
+}
+.header-transparent .mean-container a.meanmenu-reveal {
+	border: 1px solid #fff;
+	color: #fff;;
+}
+.header-transparent .mean-container a.meanmenu-reveal span {
+	background: #fff;
+	display: block;
+	height: 3px;
+	margin-top: 3px;
+}
+.events-content span {
+	display: inline-block;
+}
+.choose-wrapper {
+	height: 100%;
+	padding: 100px 30px;
+	padding-top: 85px;
+}
+.testimonial-box {
+	padding: 80px 50px;
+}
+.slider-text > span {
+	padding: 8px 17px 9px;
+}
+.slider-text h1 {
+	font-size: 55px;
+	padding: 5px 24px 10px 24px;
+}
+.slider2-height {
+	min-height: 700px;
+}
+.event-count.slider-count .time-count {
+	height: 140px;
+	width: 140px;
+	margin: 0 5px;
+	font-size: 39px;
+}
+.white-header {
+	padding-top: 21px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.chose-bg {
+	height: 400px;
+	position: static;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+.conatct-wrapper {
+	padding-right: 0;
+}
+.f-logo{display: none}
+.testimonial-text p {
+	padding: 0 25px;
+}
+.event-sec-title {
+	padding: 0;
+}
+
+
+
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.header-top-wrapper {
+	padding-left: 0;
+}
+.header-inner {
+	padding-right: 10px;
+}
+.menu-box {
+	padding: 0 15px;
+}
+.logo {
+	margin-top: 19px;
+}
+
+.slider-count .time-count {
+	font-size: 40px;
+	margin: 0 15px;
+	margin-bottom: 20px;
+}
+.time-count > span {
+	display: block;
+	font-size: 20px;
+}
+.slider-content h1 {
+	font-size: 29px;
+	line-height: 38px;
+}
+.slider-info span {
+	font-size: 17px;
+}
+.slider-count {
+	margin-top: 30px;
+}
+.slider-height {
+	min-height: 640px;
+}
+.events-img {
+	padding-left: 0;
+	padding-right: 0;
+}
+.events-content {
+	padding-left: 0;
+}
+.event-img {
+	float: none;
+	margin-right: 0;
+}
+.event-text h1 {
+	font-size: 30px;
+	line-height: 34px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.events-content span {
+	margin-top: 20px;
+}
+.event-tab {
+	margin-right: 15px;
+}
+.event-bg {
+	padding: 45px 15px 6px 15px;
+	margin-left: 0;
+}
+.event-tab-button .btn {
+	margin-bottom: 10px;
+}
+.ticket-bg {
+	margin-left: 0;
+	margin-right: 0;
+	padding: 41px 15px 48px 15px;
+}
+.ticket-now-text h2 {
+	font-size: 30px;
+}
+.ticket-now-text p {
+	padding-right: 0;
+}
+.testimonial-wrapper {
+	margin: 0;
+	box-shadow: none;
+	padding: 0;
+}
+.testimonial-text p {
+	padding: 0 15px;
+}
+.testimonial-box {
+	padding: 0;
+	margin-top: 65px;
+	margin-bottom: 80px;
+}
+.testimonial-inner {
+	box-shadow: none;
+}
+.latest-blog-meta span {
+	font-size: 13px;
+	margin-right: 0px;
+}
+.latest-blog-meta span a {
+	font-size: 13px;
+}
+.latest-blog-meta span a.web {
+	margin-right: 5px;
+}
+.latest-blog-meta span::before {
+	right: 79px;
+}
+.latest-blog-text h4 {
+	padding-right: 0;
+}
+.subscribe-form {
+	margin-left: 0;
+}
+.subscribe-form input {
+	width: 100%;
+}
+.subscribe-form button {
+	margin-top: 10px;
+}
+ .newsletter-text h1::before {
+	display: none;
+}
+.copyright p {
+	margin-bottom: 15px;
+}
+ .copyright {
+	margin-top: 0;
+}
+ .events-content span {
+	margin-top: 0;
+	padding-right: 0;
+}
+ .events2-content p {
+	padding-right: 0;
+}
+.event-tab-border {
+	padding: 60px 30px 0 30px;
+}
+.event2-tab li {
+	margin-bottom: 25px;
+}
+.event-tab-meta span {
+	margin-right: 12px;
+}
+ .event-tab-border .event-tab-content h4 {
+	padding-right: 0;
+}
+ .pricing2-top-text p {
+	padding: 0 20px;
+}
+ .feature-text p {
+	padding: 0 0;
+}
+ .ticket2-now .ticket-now-text p {
+	padding-right: 0;
+}
+ .footer2-wrapper {
+	padding: 0 0;
+}
+ .pricing3-wrapper {
+	margin-right: 15px;
+}
+ .pricing-list-wrapper {
+	margin-left: 15px;
+}
+ .workshop-img img {
+	width: 100%;
+}
+.workshop-area::before {
+	display: none;
+}
+.workshop-area::after {
+	display: none;
+}
+ .workshop-text h1 {
+	font-size: 30px;
+	line-height: 36px;
+	padding:0;
+}
+ .workshop-text p {
+	padding: 0;
+}
+ .portfolio-menu button {
+	font-size: 16px;
+	padding: 0 8px;
+}
+ .event-details-text h1 {
+	font-size: 27px;
+}
+ .event-deatils-active .owl-nav div {
+	display: none;
+}
+ .event-deatils-meta span {
+	margin-right: 17px;
+}
+ .event-details-single {
+	padding-left: 0;
+}
+.ticket-bg11 .ticket-now-text p {
+	padding-right: 0;
+}
+.details-next-text {
+	padding-left: 0;
+	float: none;
+}
+.author {
+	padding: 30px 20px 28px 20px;
+	text-align: center;
+}
+.author-img {
+	float: none;
+	margin-right: 0;
+	margin-bottom: 16px;
+}
+.comments-avatar {
+	float: none;
+	margin-bottom: 20px;
+}
+.post-comments {
+	padding: 42px 20px 40px 20px;
+}
+.comments-text {
+	padding-left: 0;
+}
+.comments-text > p {
+	margin-bottom: 0;
+	padding-right: 0;
+}
+.comments-reply {
+	padding-left: 10px;
+}
+.single-blog .latest-blog-text {
+	padding: 38px 20px 32px 20px;
+}
+.latest-blog-meta span::before {
+	display: none;
+}
+blockquote {
+	font-size: 20px;
+	margin: 28px 10px 32px 15px;
+}
+.speaker-img img {
+	width: 100%;
+}
+.testimonial-active .owl-nav div {
+	display: none;
+}
+ .header-transparent .mean-container a.meanmenu-reveal {
+	border: 1px solid #fff;
+	color: #fff;;
+}
+.header-transparent .mean-container a.meanmenu-reveal span {
+	background: #fff;
+	display: block;
+	height: 3px;
+	margin-top: 3px;
+}
+ .choose-wrapper {
+	padding: 200px 20px 160px 20px;
+}
+.slider-content {
+	margin-top: 80px;
+}
+.header-one {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+}
+.slider-text > span {
+	font-size: 25px;
+	padding: 8px 17px 9px;
+}
+.slider-text h1 {
+	font-size: 39px;
+	padding: 4px 24px 10px 24px;
+}
+.slider2-height {
+	min-height: 690px;
+}
+.time-count-area {
+	margin-top: 0;
+	padding-top: 120px;
+}
+.event-count.slider-count .time-count {
+	margin-bottom: 30px;
+}
+.slider-count.event-count-3.text-center.mt-0.mb-30 {
+	padding-top: 180px;
+}
+.slider-content.slider-3-content.text-center {
+	padding-bottom: 100px;
+	margin-top: 20px;
+}
+.white-header {
+	padding-top: 21px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.breadcrumb-text > h1 {
+	font-size: 35px;
+}
+.breadcrumb-text {
+	padding-top: 0;
+}
+.chose-bg {
+	height: 400px;
+	position: static;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+.choose-wrapper {
+	padding: 60px 15px;
+}
+.testimonial3 {
+	box-shadow: inherit;
+	padding: 0;
+}
+.breadcrumb-area {
+	padding-bottom: 90px;
+	padding-top: 170px;
+}
+
+.breadcrumb-menu li a {
+	font-size: 17px;
+}
+.breadcrumb-menu span {
+	font-size: 16px;
+}
+.breadcrumb-menu li::before {
+	top: 3px;
+}
+.contact-title h1 {
+	font-size: 44px;
+}
+.contact-title p {
+	line-height: 32px;
+}
+.conatct-wrapper {
+	padding-right: 0;
+}
+.event-tab {
+	margin-top: 0;
+	margin-bottom: 25px;
+}
+.event-tab-content.mb-75 {
+	margin-bottom: 40px;
+}
+.footer-logo a img {
+	width: 200px;
+}
+.copyright {
+	text-align: center;
+}
+.footer-icon {
+	text-align: center;
+}
+.footer-wrapper .footer-icon {
+	text-align: left;
+}
+.slider-info {
+	display: none;
+}
+.event-sec-title {
+	padding: 0;
+}
+.event-tab li {
+	margin-bottom: 20px;
+}
+
+
+
+
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+.slider-info {
+	display: block;
+}
+
+}
