@@ -80,7 +80,7 @@ blockquote { color: #333333; font-size: 22px; font-style: italic; font-weight: 4
 .btn { backface-visibility: hidden; border: none; border-radius: 0; color: #fff; display: inline-block; font-size: 14px; line-height: 1; }
 .btn { text-align: center; text-transform: uppercase; transform: translateZ(0px); transition: .3s; transition-property: color; }
 .btn { background: #0089d1; font-family: 'Oswald', sans-serif; font-weight: 500; padding: 17px 40px; position: relative; }
-.btn:hover{ color:#fff; }
+.btn:hover{ color: #fff; }
 .btn:after{ background: #ffcf13; border-radius: 0; bottom: 0; content: ""; left: 0; position: absolute; right: 0; top: 0; z-index: -1; }
 .btn:after{ transform: scaleX(0); transform-origin: 0 50% 0; transition:.3s; transition-property: transform, -webkit-transform; transition-timing-function: ease-out; }
 .btn:hover::after{ transform: scaleX(1); }
@@ -954,9 +954,12 @@ blockquote { color: #333333; font-size: 22px; font-style: italic; font-weight: 4
 .our-gallery-area { background-color: #000000; }
 .black-bg { background-color: #000000; }
 .ticket-bg { margin-top: -120px; }
-.banner-area { display: flex; height: 560px; align-items: center; padding-top: 100px; }
 .subscribes-form form button:hover { background: #ffcf13; }
+.white-header .main-menu nav > ul > li > a.active { color: #ffcf13; }
 
+.banner-area { display: flex; height: 560px; align-items: center; padding-top: 100px; }
+.banner-area { background-size: cover; background-position: center; }
+	
 .slider-count .time-count,
 .slider-count .time-count:nth-child(2),
 .slider-count .time-count:nth-child(3),
