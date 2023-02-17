@@ -868,9 +868,9 @@ blockquote { color: #333333; font-size: 22px; font-style: italic; font-weight: 4
 .post-comments-form textarea { border: 1px solid #eaeaea; height: 130px; margin-bottom: 20px; padding: 15px; width: 100%; color: #a4a4a4; font-size: 14px; background:none; }
 .post-comments-form textarea::-moz-placeholder { color: #a4a4a4; font-size: 14px; }
 .post-comments-form button.btn { font-size: 14px; font-weight: 700; padding: 15px 33px; color: #444; transition: .3s; background: #ffcf13; border-radius: 0; }
-.post-comments-form button.btn:hover{ color: #fff; }
-.post-comments-form button.btn::after{background:#0089d1;color:#fff; }
-.author-icon{}
+.post-comments-form button.btn:hover { color: #fff; }
+.post-comments-form button.btn::after { background: #0089d1; color: #fff; }
+.author-icon {}
 .author-icon a { font-size: 12px; color: #818a8b; padding-right: 12px; transition: .3s; }
 .author-icon a:hover{color:#666666; }
 
@@ -946,6 +946,7 @@ blockquote { color: #333333; font-size: 22px; font-style: italic; font-weight: 4
 .header-transparent { background: #000000; }
 .header-transparent .sticky { background: #000000; }
 
+.hidden { display: none !important; }
 .logo { margin-top: 10px; }
 .fc-white { color: #FFFFFF; }
 .team2-img:before { background: #0038a7; }
