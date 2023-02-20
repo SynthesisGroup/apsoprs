@@ -992,6 +992,18 @@ blockquote { color: #333333; font-size: 22px; font-style: italic; font-weight: 4
     z-index: 3;
 }
 
+#menu-toggler .close-icon {
+    display: none;
+}
+
+#menu-toggler .close-icon.show {
+    display: block;
+}
+
+#menu-toggler .menu-icon.hidden {
+    display: none;
+}
+
 .header-button {
     position: fixed;
     top: 23px;

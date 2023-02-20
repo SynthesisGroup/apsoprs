@@ -5,6 +5,13 @@ document.addEventListener('DOMContentLoaded', () => {
     if (menuToggler) {
         menuToggler.addEventListener('click', () => {
             navMenuEl.classList.toggle('mobile-sm-menu');
+            const menuIconEl = menuToggler.querySelector('.menu-icon');
+            const closeIconEl = menuToggler.querySelector('.close-icon');
+            
+            if (menuIconEl && closeIconEl) {
+                menuIconEl.classList.toggle('hidden');
+                closeIconEl.classList.toggle('show');
+            }
         });
     }
 });
