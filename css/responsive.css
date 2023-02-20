@@ -7,7 +7,7 @@
 	min-height: 770px;
 }
 .white-header {
-	padding-top: 21px;
+	/* padding-top: 21px; */
 	padding-left: 30px;
 	padding-right: 30px;
 }
@@ -367,7 +367,7 @@
 	font-size: 39px;
 }
 .white-header {
-	padding-top: 21px;
+	padding-bottom: 21px;
 	padding-left: 15px;
 	padding-right: 15px;
 }
@@ -405,9 +405,9 @@
 .menu-box {
 	padding: 0 15px;
 }
-.logo {
+/* .logo {
 	margin-top: 19px;
-}
+} */
 
 .slider-count .time-count {
 	font-size: 40px;
@@ -689,9 +689,9 @@ blockquote {
 	margin-top: 20px;
 }
 .white-header {
-	padding-top: 21px;
-	padding-left: 15px;
-	padding-right: 15px;
+	padding-bottom: 21px;
+	padding-left: 0;
+	padding-right: 0;
 }
 .breadcrumb-text > h1 {
 	font-size: 35px;

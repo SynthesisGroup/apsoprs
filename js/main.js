@@ -1,3 +1,14 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const menuToggler = document.getElementById('menu-toggler');
+    const navMenuEl = document.getElementById('nav-menu');
+
+    if (menuToggler) {
+        menuToggler.addEventListener('click', () => {
+            navMenuEl.classList.toggle('mobile-sm-menu');
+        });
+    }
+});
+
 (function ($) {
 "use strict";
 
