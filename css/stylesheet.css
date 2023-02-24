@@ -943,8 +943,8 @@ blockquote { color: #333333; font-size: 22px; font-style: italic; font-weight: 4
 .section-title2 p { margin-bottom: 0; }
 
 /* Overwrites */
-.header-transparent { background: #000000; }
-.header-transparent .sticky { background: #000000; }
+.header-transparent { background: #0038a7; }
+.header-transparent .sticky { background: #0038a7; }
 
 .hidden { display: none !important; }
 .logo { margin-top: 10px; }
